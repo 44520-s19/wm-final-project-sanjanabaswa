@@ -1,6 +1,6 @@
 # YouTube_Project
 # Web Mining Final Project
-## Top 5 YouTube Users by subscribers
+## Top 5 YouTube Channels by subscribers
 ### Question 
 ##### How to find the top 5 YouTube channels, and  analyze the subscribers and  views of those channels?
 ### Introduction
