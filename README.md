@@ -1,10 +1,10 @@
 # YouTube_Project
 # Web Mining Final Project
-## Top 25 YouTube Users by subscribers
+## Top 5 YouTube Users by subscribers
 ### Question 
-##### How to find the top 5 YouTube channels, and  analyze the subscribers and  views of those channels.?
+##### How to find the top 5 YouTube channels, and  analyze the subscribers and  views of those channels?
 ### Introduction
-##### To find the channels list with more number of subscribers I'm using "socialblade website".I web scraped the top 25 Youtube channels by subscribers and collected observations.I Cleaned the data collected and Visualized the observations.
+##### To find the channels list with more number of subscribers I'm using "socialblade website".I web scraped the top 5 Youtube channels by subscribers and collected data.I Cleaned the data collected and Visualized the results in BarGraphs.
 ### Libraries Required
 ##### 1.BeautifulSoup
 ##### 2.Pandas
